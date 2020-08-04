@@ -20,3 +20,7 @@ This change log contains all changes made to *Cozy Theme*
 - added git decoration colours
 - added diff editor background for added and removed parts
 - added problem icon colours
+
+## 0.2.2
+
+- fix black amd bright black being to dark in terminal

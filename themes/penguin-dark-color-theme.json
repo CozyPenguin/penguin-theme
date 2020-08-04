@@ -20,8 +20,8 @@
 		// tabs
 		"tab.activeForeground": "#fffffd",
 		// terminal
-		"terminal.ansiBlack": "#000000",
-		"terminal.ansiBrightBlack": "#121212",
+		"terminal.ansiBlack": "#222222",
+		"terminal.ansiBrightBlack": "#7c7c7c",
 		"terminal.ansiBlue": "#007acc",
 		"terminal.ansiBrightBlue": "#3197db",
 		"terminal.ansiCyan": "#2cc1cc",
