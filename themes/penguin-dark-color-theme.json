@@ -1,0 +1,121 @@
+{
+	"name": "Cozy Theme",
+	"type": "dark",
+	"semanticHighlighting": true,
+	"colors": {
+		"editor.background": "#1d1d1d",
+		"editor.foreground": "#fffffd",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#fffffd",
+	},
+	"tokenColors": [{
+			"name": "Comment",
+			"scope": [
+				"comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#89969c"
+			}
+		},
+		{
+			"name": "Comment Delimiter",
+			"scope": [
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#585e64",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Control Keyword",
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#1fcf86",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": [
+				"entity.name.function",
+				"entity.name.method"
+			],
+			"settings": {
+				"foreground": "#a09fff",
+			}
+		},
+		{
+			"name": "Modifier",
+			"scope": [
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#d19ff3"
+			}
+		},
+		{
+			"name": "Other Keyword",
+			"scope": [
+				"keyword.other",
+				"meta.preprocessor"
+			],
+			"settings": {
+				"foreground": "#f87474"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": [
+				"punctuation"
+			],
+			"settings": {
+				"foreground": "#83dae0",
+			}
+		},
+		{
+			"name": "String",
+			"scope": [
+				"string"
+			],
+			"settings": {
+				"foreground": "#b8ce7c"
+			}
+		},
+		{
+			"name": "Name",
+			"scope": [
+				"storage.type",
+				"entity.name.type"
+			],
+			"settings": {
+				"foreground": "#fabc36"
+			}
+		},
+		{
+			"name": "Type and Boolean",
+			"scope": [
+				"keyword.type",
+				"constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#96c2fc"
+			}
+		}
+	],
+	"semanticTokenColors": {
+		"enumMember": "#fdffe4",
+		"field": "#f8fa74",
+		"local": "#fdffe4",
+		"number": "#5ddfe4",
+		"operator": "#59afff",
+		"parameter": "#f8a251",
+		"property": "#cefac1",
+		"xmlDocCommentDelimiter": "#585e64",
+		"xmlDocCommentText": "#727980",
+		"xmlDocCommentName": "#4378ad"
+	}
+}
