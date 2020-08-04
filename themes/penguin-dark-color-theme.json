@@ -19,16 +19,6 @@
 			}
 		},
 		{
-			"name": "Comment Delimiter",
-			"scope": [
-				"punctuation.definition.comment"
-			],
-			"settings": {
-				"foreground": "#585e64",
-				"fontStyle": "italic"
-			}
-		},
-		{
 			"name": "Control Keyword",
 			"scope": [
 				"keyword.control"
@@ -49,12 +39,50 @@
 			}
 		},
 		{
+			"name": "Link",
+			"scope": "meta.link",
+			"settings": {
+				"foreground": "#e64f70",
+				"fontStyle": "underline"
+			}
+		},
+		{
+			"name": "Markup bold",
+			"scope": "markup.bold",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markup italic",
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Modifier",
 			"scope": [
 				"storage.modifier"
 			],
 			"settings": {
 				"foreground": "#d19ff3"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": [
+				"constant.numeric"
+			],
+			"settings": {
+				"foreground": "#5ddfe4",
+			}
+		},
+		{
+			"name": "Operator",
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#59afff"
 			}
 		},
 		{
