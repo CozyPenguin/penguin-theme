@@ -7,7 +7,7 @@ The Penguin theme is by far not complete and I still have to work on adding supp
 ## Contribute
 
 If you want to contribute, just create an issue or a pull request.
-You can also reach via mail: <coozypenguin@gmail.com>
+You can also reach me via mail: <coozypenguin@gmail.com>
 
 ## License
 
