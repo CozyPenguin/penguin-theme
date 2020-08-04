@@ -10,3 +10,4 @@ This change log contains all changes made to *Cozy Theme*
 
 - add initial support for markup languages
 - add more textmate tokens for languages that don't support semantic highlighting
+- add textmate colors for properties, including json

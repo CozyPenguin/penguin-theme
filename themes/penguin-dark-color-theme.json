@@ -89,10 +89,22 @@
 			"name": "Other Keyword",
 			"scope": [
 				"keyword.other",
-				"meta.preprocessor"
+				"meta.preprocessor",
+				"variable.other.readwrite"
 			],
 			"settings": {
 				"foreground": "#f87474"
+			}
+		},
+		{
+			"name": "Property",
+			"scope": [
+				"variable.name.other.property",
+				"entity.name.variable.property.cs",
+				"support.type.property-name"
+			],
+			"settings": {
+				"foreground": "#cefac1"
 			}
 		},
 		{
