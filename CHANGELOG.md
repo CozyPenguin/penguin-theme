@@ -8,6 +8,15 @@ This change log contains all changes made to *Cozy Theme*
 
 ## 0.2.0
 
-- add initial support for markup languages
-- add more textmate tokens for languages that don't support semantic highlighting
-- add textmate colors for properties, including json
+- added initial support for markup languages
+- added more textmate tokens for languages that don't support semantic highlighting
+- added textmate colors for properties, including json
+
+## 0.2.1
+
+- added escape sequences
+- altered title bar colours
+- added terminal colours
+- added git decoration colours
+- added diff editor background for added and removed parts
+- added problem icon colours

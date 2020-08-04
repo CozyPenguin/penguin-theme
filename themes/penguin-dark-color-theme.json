@@ -7,6 +7,47 @@
 		"editor.foreground": "#fffffd",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#fffffd",
+		// status bar
+		"statusBar.border": "#1d1d1d",
+		"statusBar.foreground": "#b1b1b1",
+		"statusBarItem.remoteBackground": "#007acc",
+		"statusBarItem.remoteForeground": "#fffffd",
+		// title bar
+		"titleBar.activeBackground": "#1f1f1f",
+		"titleBar.activeForeground": "#b1b1b1",
+		"titleBar.inactiveBackground": "#4b4b4b",
+		"titleBar.inactiveForeground": "#cccccc",
+		// tabs
+		"tab.activeForeground": "#fffffd",
+		// terminal
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBrightBlack": "#121212",
+		"terminal.ansiBlue": "#007acc",
+		"terminal.ansiBrightBlue": "#3197db",
+		"terminal.ansiCyan": "#2cc1cc",
+		"terminal.ansiBrightCyan": "#83DAE0",
+		"terminal.ansiGreen": "#1FCF86",
+		"terminal.ansiBrightGreen": "#00ff62",
+		"terminal.ansiMagenta": "#c220ba",
+		"terminal.ansiBrightMagenta": "#ff6af8",
+		"terminal.ansiRed": "#e43939",
+		"terminal.ansiBrightRed": "#F87474",
+		"terminal.ansiWhite": "#fffffd",
+		"terminal.ansiBrightWhite": "#ffffff",
+		"terminal.ansiYellow": "#e6e927",
+		"terminal.ansiBrightYellow": "#F8FA74",
+		// git decorations
+		"gitDecoration.modifiedResourceForeground": "#6a9dbe",
+		"gitDecoration.addedResourceForeground": "#1FCF86",
+		"gitDecoration.deletedResourceForeground": "#e64f70",
+		// dif editor
+		"diffEditor.insertedTextBackground": "#45ffb21c",
+		"diffEditor.removedTextBackground": "#e439391c",
+		//problem icon colours
+		"problemsErrorIcon.foreground": "#e64f70",
+		"problemsWarningIcon.foreground": "#caae11",
+		"problemsInfoIcon.foreground": "#007acc"
+
 	},
 	"tokenColors": [{
 			"name": "Comment",
@@ -26,6 +67,13 @@
 			"settings": {
 				"foreground": "#1fcf86",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Escape Character",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#60faba"
 			}
 		},
 		{
@@ -110,7 +158,12 @@
 		{
 			"name": "Punctuation",
 			"scope": [
-				"punctuation"
+				"punctuation.definition.string",
+				"punctuation.definition.char",
+				"punctuation.terminator",
+				"punctuation.curlybrace",
+				"punctuation.parenthesis",
+				"punctuation."
 			],
 			"settings": {
 				"foreground": "#83dae0",
@@ -136,10 +189,10 @@
 			}
 		},
 		{
-			"name": "Type and Boolean",
+			"name": "Type Language Constant",
 			"scope": [
 				"keyword.type",
-				"constant.language.boolean"
+				"constant.language"
 			],
 			"settings": {
 				"foreground": "#96c2fc"
@@ -156,6 +209,7 @@
 		"property": "#cefac1",
 		"xmlDocCommentDelimiter": "#585e64",
 		"xmlDocCommentText": "#727980",
-		"xmlDocCommentName": "#4378ad"
+		"xmlDocCommentName": "#4378ad",
+		"stringEscapeCharacter": "#60faba"
 	}
 }
