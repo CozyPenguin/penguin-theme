@@ -4,10 +4,10 @@
 	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#1d1d1d",
-		"editor.foreground": "#fffffd",
+		"editor.foreground": "#f1f1f1",
 		"activityBarBadge.background": "#007acc",
 		// side bar
-		"sideBarTitle.foreground": "#fffffd",
+		"sideBarTitle.foreground": "#f1f1f1",
 		"sideBar.background": "#1a1a1a",
 		"sideBar.border": "#353535",
 		// activity bar
@@ -16,7 +16,7 @@
 		"statusBar.border": "#1d1d1d",
 		"statusBar.foreground": "#b1b1b1",
 		"statusBarItem.remoteBackground": "#007acc",
-		"statusBarItem.remoteForeground": "#fffffd",
+		"statusBarItem.remoteForeground": "#f1f1f1",
 		// title bar
 		"titleBar.activeBackground": "#1f1f1f",
 		"titleBar.activeForeground": "#d1d1d1",
@@ -25,9 +25,9 @@
 		"menubar.selectionForeground": "#dfdfdf",
 		// menu
 		"menu.background": "#1f1f1f",
-		"menu.foreground": "#fffffd",
+		"menu.foreground": "#f1f1f1",
 		// tabs
-		"tab.activeForeground": "#fffffd",
+		"tab.activeForeground": "#f1f1f1",
 		// terminal
 		"terminal.ansiBlack": "#222222",
 		"terminal.ansiBrightBlack": "#7c7c7c",
@@ -35,14 +35,14 @@
 		"terminal.ansiBrightBlue": "#3197db",
 		"terminal.ansiCyan": "#2cc1cc",
 		"terminal.ansiBrightCyan": "#83DAE0",
-		"terminal.ansiGreen": "#1FCF86",
-		"terminal.ansiBrightGreen": "#00ff62",
-		"terminal.ansiMagenta": "#c220ba",
-		"terminal.ansiBrightMagenta": "#ff6af8",
+		"terminal.ansiGreen": "#1cc462",
+		"terminal.ansiBrightGreen": "#61e66c",
+		"terminal.ansiMagenta": "#b958b5",
+		"terminal.ansiBrightMagenta": "#e67ae0",
 		"terminal.ansiRed": "#e43939",
 		"terminal.ansiBrightRed": "#F87474",
-		"terminal.ansiWhite": "#fffffd",
-		"terminal.ansiBrightWhite": "#ffffff",
+		"terminal.ansiWhite": "#f1f1f1",
+		"terminal.ansiBrightWhite": "#fffffd",
 		"terminal.ansiYellow": "#e9b527",
 		"terminal.ansiBrightYellow": "#fadb74",
 		// git decorations
