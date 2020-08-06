@@ -62,7 +62,7 @@
 			"name": "Abnf Optional",
 			"scope": "keyword.other.optional.abnf",
 			"settings": {
-				"foreground": "#F8FA74"
+				"foreground": "#fadb74"
 			}
 		},
 		{
