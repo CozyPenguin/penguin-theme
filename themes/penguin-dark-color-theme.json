@@ -6,7 +6,12 @@
 		"editor.background": "#1d1d1d",
 		"editor.foreground": "#fffffd",
 		"activityBarBadge.background": "#007acc",
+		// side bar
 		"sideBarTitle.foreground": "#fffffd",
+		"sideBar.background": "#1a1a1a",
+		"sideBar.border": "#353535",
+		// activity bar
+		"activityBar.background": "#242424",
 		// status bar
 		"statusBar.border": "#1d1d1d",
 		"statusBar.foreground": "#b1b1b1",
@@ -14,9 +19,13 @@
 		"statusBarItem.remoteForeground": "#fffffd",
 		// title bar
 		"titleBar.activeBackground": "#1f1f1f",
-		"titleBar.activeForeground": "#b1b1b1",
+		"titleBar.activeForeground": "#d1d1d1",
 		"titleBar.inactiveBackground": "#4b4b4b",
 		"titleBar.inactiveForeground": "#cccccc",
+		"menubar.selectionForeground": "#dfdfdf",
+		// menu
+		"menu.background": "#1f1f1f",
+		"menu.foreground": "#fffffd",
 		// tabs
 		"tab.activeForeground": "#fffffd",
 		// terminal
@@ -34,8 +43,8 @@
 		"terminal.ansiBrightRed": "#F87474",
 		"terminal.ansiWhite": "#fffffd",
 		"terminal.ansiBrightWhite": "#ffffff",
-		"terminal.ansiYellow": "#e6e927",
-		"terminal.ansiBrightYellow": "#F8FA74",
+		"terminal.ansiYellow": "#e9b527",
+		"terminal.ansiBrightYellow": "#fadb74",
 		// git decorations
 		"gitDecoration.modifiedResourceForeground": "#6a9dbe",
 		"gitDecoration.addedResourceForeground": "#1FCF86",
@@ -50,6 +59,20 @@
 
 	},
 	"tokenColors": [{
+			"name": "Abnf Optional",
+			"scope": "keyword.other.optional.abnf",
+			"settings": {
+				"foreground": "#F8FA74"
+			}
+		},
+		{
+			"name": "Abnf Group",
+			"scope": "keyword.other.group.abnf",
+			"settings": {
+				"foreground": "#c598f8"
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": [
 				"comment"
@@ -123,7 +146,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#5ddfe4",
+				"foreground": "#dda667",
 			}
 		},
 		{
@@ -159,14 +182,14 @@
 			"name": "Punctuation",
 			"scope": [
 				"punctuation.definition.string",
-				"punctuation.definition.char",
-				"punctuation.terminator",
+				"punctuation.definition.typeparemeters",
 				"punctuation.curlybrace",
 				"punctuation.parenthesis",
-				"punctuation."
+				"punctuation.squarebracket",
+				"punctuation.terminator"
 			],
 			"settings": {
-				"foreground": "#83dae0",
+				"foreground": "#83dae0"
 			}
 		},
 		{
@@ -203,10 +226,11 @@
 		"enumMember": "#fdffe4",
 		"field": "#f8fa74",
 		"local": "#fdffe4",
-		"number": "#5ddfe4",
+		"number": "#dda667",
 		"operator": "#59afff",
 		"parameter": "#f8a251",
 		"property": "#cefac1",
+		"punctuation": "#83dae0",
 		"xmlDocCommentDelimiter": "#585e64",
 		"xmlDocCommentText": "#727980",
 		"xmlDocCommentName": "#4378ad",

@@ -23,4 +23,15 @@ This change log contains all changes made to *Cozy Theme*
 
 ## 0.2.2
 
-- fix black amd bright black being to dark in terminal
+- fix black and bright black being to dark in terminal
+
+## 0.2.3
+
+- highlight currently active menu item
+- add textmate and semantic tokens for punctuation
+- altered active title bar foreground colour
+- added menu colours
+- altered terminal yellow
+- added support for *forivall.abnf*
+- altered colour for numbers
+- added better support for punctuation tokens
