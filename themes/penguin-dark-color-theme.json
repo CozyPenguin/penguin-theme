@@ -75,7 +75,8 @@
 		{
 			"name": "Comment",
 			"scope": [
-				"comment"
+				"comment",
+				"comment.line",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -113,10 +114,12 @@
 			"name": "Link",
 			"scope": "meta.link",
 			"settings": {
-				"foreground": "#e64f70",
+				"foreground": "#eb90a7",
 				"fontStyle": "underline"
 			}
 		},
+
+		// markup
 		{
 			"name": "Markup bold",
 			"scope": "markup.bold",
@@ -129,6 +132,13 @@
 			"scope": "markup.italic",
 			"settings": {
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markup heading",
+			"scope": "markup.heading",
+			"settings": {
+				"foreground": "#d6a231"
 			}
 		},
 		{
@@ -181,15 +191,11 @@
 		{
 			"name": "Punctuation",
 			"scope": [
-				"punctuation.definition.string",
-				"punctuation.definition.typeparemeters",
-				"punctuation.curlybrace",
-				"punctuation.parenthesis",
-				"punctuation.squarebracket",
-				"punctuation.terminator"
+				"punctuation"
 			],
 			"settings": {
-				"foreground": "#83dae0"
+				"foreground": "#83dae0",
+				"fontStyle": ""
 			}
 		},
 		{
