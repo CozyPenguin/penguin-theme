@@ -35,3 +35,7 @@ This change log contains all changes made to *Cozy Theme*
 - added support for *forivall.abnf*
 - altered colour for numbers
 - added better support for punctuation tokens
+
+## 0.2.4
+
+- added icon
