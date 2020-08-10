@@ -49,3 +49,4 @@ This change log contains all changes made to *Cozy Theme*
 - tweaked colour of properties and numbers
 - added slighty darker colour for units, e.g. `500`*`px`*
 - added support for html/css
+- added markdown inline code highlighting

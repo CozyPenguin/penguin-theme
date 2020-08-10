@@ -149,6 +149,13 @@
 			}
 		},
 		{
+			"name": "Markup code",
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#e9a86c",
+			}
+		},
+		{
 			"name": "Modifier",
 			"scope": [
 				"storage.modifier"
