@@ -43,3 +43,9 @@ This change log contains all changes made to *Cozy Theme*
 ## 0.2.5
 
 - added highlighting for xml tags
+
+## 0.2.6
+
+- tweaked colour of properties and numbers
+- added slighty darker colour for units, e.g. `500`*`px`*
+- added support for html/css

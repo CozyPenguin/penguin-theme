@@ -118,6 +118,13 @@
 				"fontStyle": "underline"
 			}
 		},
+		{
+			"name": "Selector (CSS)",
+			"scope": "meta.selector",
+			"settings": {
+				"foreground": "#f7c640"
+			}
+		},
 
 		// markup
 		{
@@ -151,12 +158,19 @@
 			}
 		},
 		{
+			"name": "Units",
+			"scope": "keyword.other.unit",
+			"settings": {
+				"foreground": "#ffcb90",
+			}
+		},
+		{
 			"name": "Number",
 			"scope": [
-				"constant.numeric"
+				"constant.numeric",
 			],
 			"settings": {
-				"foreground": "#dda667",
+				"foreground": "#d8a161",
 			}
 		},
 		{
@@ -186,7 +200,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#cefac1"
+				"foreground": "#b1ee9e"
 			}
 		},
 		{
@@ -233,10 +247,10 @@
 		"enumMember": "#fdffe4",
 		"field": "#f8fa74",
 		"local": "#fdffe4",
-		"number": "#dda667",
+		"number": "#d8a161",
 		"operator": "#59afff",
 		"parameter": "#f8a251",
-		"property": "#cefac1",
+		"property": "#b1ee9e",
 		"punctuation": "#83dae0",
 		"xmlDocCommentDelimiter": "#585e64",
 		"xmlDocCommentText": "#727980",
