@@ -171,7 +171,8 @@
 			"scope": [
 				"keyword.other",
 				"meta.preprocessor",
-				"variable.other.readwrite"
+				"variable.other.readwrite",
+				"meta.tag"
 			],
 			"settings": {
 				"foreground": "#f87474"

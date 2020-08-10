@@ -39,3 +39,4 @@ This change log contains all changes made to *Cozy Theme*
 ## 0.2.4
 
 - added icon
+- added highlighting for xml tags
