@@ -9,7 +9,7 @@
     },
     "license": "MIT",
     "icon": "images/icon_128.png",
-    "version": "0.2.5",
+    "version": "0.2.6",
     "engines": {
         "vscode": "^1.47.0"
     },
