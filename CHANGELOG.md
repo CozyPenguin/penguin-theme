@@ -50,3 +50,8 @@ This change log contains all changes made to *Cozy Theme*
 - added slighty darker colour for units, e.g. `500`*`px`*
 - added support for html/css
 - added markdown inline code highlighting
+
+## 0.3.0
+
+- improved python support
+- added colour for invalid tokens
