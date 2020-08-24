@@ -55,3 +55,7 @@ This change log contains all changes made to *Cozy Theme*
 
 - improved python support
 - added colour for invalid tokens
+
+## 0.3.1
+
+- added support for the Dart language
