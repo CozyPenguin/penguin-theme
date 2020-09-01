@@ -59,3 +59,7 @@ This change log contains all changes made to *Cozy Theme*
 ## 0.3.1
 
 - added support for the Dart language
+
+## 0.3.2
+
+- improved look of comments

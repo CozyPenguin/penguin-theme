@@ -74,10 +74,10 @@
     },
     {
       "name": "Comment",
-      "scope": ["comment", "comment.line"],
+      "scope": ["comment", "comment.line", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#89969c"
+        "foreground": "#727980"
       }
     },
     {
@@ -228,7 +228,12 @@
     },
     {
       "name": "Name",
-      "scope": ["storage.type", "entity.name.type", "support.class"],
+      "scope": [
+        "storage.type",
+        "storage.type.primitive",
+        "entity.name.type",
+        "support.class"
+      ],
       "settings": {
         "foreground": "#fabc36"
       }
