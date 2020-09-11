@@ -187,8 +187,15 @@
         "foreground": "#59afff"
       }
     },
-    // attributes
+    // html & css
     {
+      "scope": "entity.other.attribute-name.id",
+      "settings": {
+        "foreground": "#db9c61"
+      }
+    },
+    {
+      "name": "attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
         "foreground": "#f7a2a2"
@@ -239,7 +246,8 @@
         "storage.type",
         "storage.type.primitive",
         "entity.name.type",
-        "support.class"
+        "support.class",
+        "entity.other.attribute-name.class"
       ],
       "settings": {
         "foreground": "#fabc36"
