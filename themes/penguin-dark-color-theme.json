@@ -170,7 +170,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#ffcb90"
+        "foreground": "#a5835d"
       }
     },
     {

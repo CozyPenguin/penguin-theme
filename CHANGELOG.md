@@ -69,3 +69,4 @@ This change log contains all changes made to _Cozy Theme_
 - added Razor support
 - improved html, added colour for attributes
 - added colour for css classes and ids
+- tweaked colour of units (apparently I changed the colour of numbers at some point)
