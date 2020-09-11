@@ -1,6 +1,6 @@
 # Change Log
 
-This change log contains all changes made to *Cozy Theme*
+This change log contains all changes made to _Cozy Theme_
 
 ## 0.1.0
 
@@ -32,7 +32,7 @@ This change log contains all changes made to *Cozy Theme*
 - altered active title bar foreground colour
 - added menu colours
 - altered terminal yellow
-- added support for *forivall.abnf*
+- added support for _forivall.abnf_
 - altered colour for numbers
 - added better support for punctuation tokens
 
@@ -47,7 +47,7 @@ This change log contains all changes made to *Cozy Theme*
 ## 0.2.6
 
 - tweaked colour of properties and numbers
-- added slighty darker colour for units, e.g. `500`*`px`*
+- added slighty darker colour for units, e.g. `500`_`px`_
 - added support for html/css
 - added markdown inline code highlighting
 
@@ -63,3 +63,8 @@ This change log contains all changes made to *Cozy Theme*
 ## 0.3.2
 
 - improved look of comments
+
+## 0.4.0
+
+- added Razor support
+- improved html, added colour for attributes

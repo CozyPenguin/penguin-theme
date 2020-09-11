@@ -187,6 +187,13 @@
         "foreground": "#59afff"
       }
     },
+    // attributes
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#f7a2a2"
+      }
+    },
     {
       "name": "Other Keyword",
       "scope": [
@@ -258,6 +265,7 @@
     "xmlDocCommentDelimiter": "#585e64",
     "xmlDocCommentText": "#727980",
     "xmlDocCommentName": "#4378ad",
-    "stringEscapeCharacter": "#60faba"
+    "stringEscapeCharacter": "#60faba",
+    "razorTagHelperElement": "#f87474"
   }
 }
