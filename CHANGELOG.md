@@ -70,3 +70,10 @@ This change log contains all changes made to _Cozy Theme_
 - improved html, added colour for attributes
 - added colour for css classes and ids
 - tweaked colour of units (apparently I changed the colour of numbers at some point)
+<<<<<<< Updated upstream
+=======
+
+## 0.4.1
+
+- changed colour of variables to be less annoying
+>>>>>>> Stashed changes
