@@ -10,6 +10,10 @@ C# + [Fira Code](https://github.com/tonsky/FiraCode)
 
 ![c-sharp](./images/examples/csharp.png)
 
+Haskell + [Fira Code](https://github.com/tonsky/FiraCode)
+
+![haskell](./images/examples/csharp.png)
+
 ## Contribute
 
 If you want to contribute, just create an issue or a pull request.
