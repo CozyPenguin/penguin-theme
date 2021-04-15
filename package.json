@@ -2,7 +2,7 @@
     "name": "penguin-theme",
     "displayName": "Penguin Theme",
     "description": "a cozy theme for VS Code",
-    "publisher": "cozypenguin",
+    "publisher": "CozyPenguin",
     "repository": {
         "type": "git",
         "url": "https://github.com/CozyPenguin/penguin-theme"

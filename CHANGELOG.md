@@ -74,3 +74,8 @@ This change log contains all changes made to _Cozy Theme_
 ## 0.4.1
 
 - changed colour of variables to be less annoying
+
+## 0.4.3
+
+- decreased contrast of certain elements to be more pleasing
+- preparation for the release of the light theme

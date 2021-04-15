@@ -1,33 +1,32 @@
 {
     "name": "Cozy Theme",
-    "type": "dark",
+    "type": "light",
     "semanticHighlighting": true,
     "colors": {
-        "editor.background": "#1d1d1d",
-        "editor.foreground": "#f1f1f1",
+        "editor.background": "#ffffff",
+        "editor.foreground": "#1d1d1d",
         // side bar
-        "sideBarTitle.foreground": "#f1f1f1",
-        "sideBar.background": "#1a1a1a",
+        "sideBarTitle.foreground": "#1a1a1a",
+        "sideBar.background": "#f1f1f1",
         "sideBar.border": "#353535",
         // activity bar
-        "activityBarBadge.background": "#007acc",
-        "activityBar.background": "#242424",
+        "activityBarBadge.background": "#0071bd",
+        "activityBar.background": "#eeeeee",
         // status bar
         "statusBar.border": "#1d1d1d",
         "statusBar.foreground": "#b1b1b1",
         "statusBarItem.remoteBackground": "#007acc",
         "statusBarItem.remoteForeground": "#f1f1f1",
         // title bar
-        "titleBar.activeBackground": "#1f1f1f",
-        "titleBar.activeForeground": "#d1d1d1",
+        "titleBar.activeBackground": "#d1d1d1",
+        "titleBar.activeForeground": "#1f1f1f",
         "titleBar.inactiveBackground": "#4b4b4b",
         "titleBar.inactiveForeground": "#cccccc",
-        "menubar.selectionForeground": "#dfdfdf",
         // menu
-        "menu.background": "#1f1f1f",
-        "menu.foreground": "#f1f1f1",
+        "menu.background": "#f1f1f1",
+        "menu.foreground": "#1f1f1f",
         // tabs
-        "tab.activeForeground": "#f1f1f1",
+        "tab.activeForeground": "#1d1d1d",
         // terminal
         "terminal.ansiBlack": "#222222",
         "terminal.ansiBrightBlack": "#7c7c7c",
@@ -88,7 +87,7 @@
             "name": "Control Keyword",
             "scope": ["keyword.control"],
             "settings": {
-                "foreground": "#31c788",
+                "foreground": "#328045",
                 "fontStyle": "italic"
             }
         },
@@ -107,7 +106,7 @@
                 "entity.name.method"
             ],
             "settings": {
-                "foreground": "#a09fff"
+                "foreground": "#6563bb"
             }
         },
         {
@@ -167,7 +166,7 @@
             "name": "Modifier",
             "scope": ["storage.modifier"],
             "settings": {
-                "foreground": "#d19ff3"
+                "foreground": "#5a277c"
             }
         },
         {
@@ -188,7 +187,7 @@
             "name": "Operator",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#59afff"
+                "foreground": "#095194"
             }
         },
         // html & css
@@ -260,7 +259,7 @@
                 "entity.other.attribute-name.class"
             ],
             "settings": {
-                "foreground": "#eebc50"
+                "foreground": "#c48a0d"
             }
         },
         {
@@ -273,18 +272,17 @@
     ],
     "semanticTokenColors": {
         "enumMember": "#fdffe4",
-        "field": "#f8fa74",
-        "local": "#fdffe4",
+        "field": "#704c00",
+        "local": "#050505",
         "number": "#d8a161",
         "operator": "#59afff",
         "parameter": "#f8a251",
-        "property": "#b1ee9e",
+        "property": "#4b8839",
         "punctuation": "#83dae0",
-        "xmlDocCommentDelimiter": "#585e64",
-        "xmlDocCommentText": "#727980",
-        "xmlDocCommentName": "#4378ad",
+        "xmlDocCommentDelimiter": "#4a4f53",
+        "xmlDocCommentText": "#35383b",
+        "xmlDocCommentName": "#004080",
         "stringEscapeCharacter": "#60faba",
         "razorTagHelperElement": "#f87474"
-        // "plainKeyword": "#eac6f1"
     }
 }
