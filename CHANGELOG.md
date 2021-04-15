@@ -84,3 +84,7 @@ This change log contains all changes made to _Cozy Theme_
 
 - add `qualified` and `static` to modifiers
 - add `where` as control flow keyword
+
+## 0.5.2
+
+- add support for yaml

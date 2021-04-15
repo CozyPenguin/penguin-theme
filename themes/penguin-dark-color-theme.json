@@ -215,7 +215,8 @@
                 "keyword.other",
                 "meta.preprocessor",
                 "meta.tag",
-                "keyword.declaration.dart"
+                "keyword.declaration.dart",
+                "entity.name.tag"
             ],
             "settings": {
                 "foreground": "#f87474"
