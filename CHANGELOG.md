@@ -88,3 +88,7 @@ This change log contains all changes made to _Cozy Theme_
 ## 0.5.2
 
 - add support for yaml
+
+## 0.5.3
+
+- hotfix to correct image in readme

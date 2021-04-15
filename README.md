@@ -12,7 +12,7 @@ C# + [Fira Code](https://github.com/tonsky/FiraCode)
 
 Haskell + [Fira Code](https://github.com/tonsky/FiraCode)
 
-![haskell](./images/examples/csharp.png)
+![haskell](./images/examples/haskell.png)
 
 ## Contribute
 
