@@ -75,7 +75,12 @@ This change log contains all changes made to _Cozy Theme_
 
 - changed colour of variables to be less annoying
 
-## 0.4.3
+## 0.5.0
 
 - decreased contrast of certain elements to be more pleasing
 - preparation for the release of the light theme
+
+## 0.5.1
+
+- add `qualified` and `static` to modifiers
+- add `where` as control flow keyword
