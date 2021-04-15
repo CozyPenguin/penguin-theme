@@ -86,7 +86,7 @@
         },
         {
             "name": "Control Keyword",
-            "scope": ["keyword.control"],
+            "scope": ["keyword.control", "keyword.other.where"],
             "settings": {
                 "foreground": "#31c788",
                 "fontStyle": "italic"
@@ -165,7 +165,11 @@
         },
         {
             "name": "Modifier",
-            "scope": ["storage.modifier"],
+            "scope": [
+                "storage.modifier",
+                "keyword.other.static",
+                "keyword.other.qualified"
+            ],
             "settings": {
                 "foreground": "#d19ff3"
             }
